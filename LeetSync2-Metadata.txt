@@ -1,1 +1,2 @@
 1431-kids-with-the-greatest-number-of-candies|Easy|1726426800000
+1071-greatest-common-divisor-of-strings|Easy|1726426800000
