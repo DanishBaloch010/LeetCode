@@ -6,3 +6,4 @@
 167-two-sum-ii-input-array-is-sorted|Medium|1726686000000
 605-can-place-flowers|Easy|1726772400000
 151-reverse-words-in-a-string|Medium|1726772400000
+345-reverse-vowels-of-a-string|Easy|1726772400000
