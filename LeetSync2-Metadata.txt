@@ -4,3 +4,4 @@
 2239-find-closest-number-to-zero|Easy|1726686000000
 125-valid-palindrome|Easy|1726686000000
 167-two-sum-ii-input-array-is-sorted|Medium|1726686000000
+605-can-place-flowers|Easy|1726772400000
