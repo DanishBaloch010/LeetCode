@@ -4,10 +4,12 @@ class Solution:
         stack = []
         vowels= 'aeiouAEIOU'
 
+        #capture all the vowels
         for idx, val in enumerate(s):
             if val in vowels:
                 stack.append(val)
-        
+
+        # reverse the vowels and keep the other characters in same sequence.
         ans = ''
         for idx, val in enumerate(s):
             if val in vowels:
