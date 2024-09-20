@@ -1,8 +1,9 @@
 class Solution:
     def canPlaceFlowers(self, flowerbed: List[int], n: int) -> bool:
         
+        # if there are no flowers then return True
         if n == 0:
-            return True
+            return True            
         i  = 0
         while i < len(flowerbed):
             
