@@ -41,9 +41,11 @@ class Solution:
         vowels = 'aeiouAEIOU'
 
         s = list(s)
-        i  = 0 
-        j = len(s)-1
+        i  = 0  # first index.
+        j = len(s)-1 # last index.
 
+        # here 
+        # [h] ,  [e] , [r] , [e]
         while i < j:
             while i < j and s[i] not in vowels:
                 i  = i + 1
@@ -60,5 +62,7 @@ class Solution:
 
                 i = i + 1
                 j = j - 1
+        
+        # return s 
 
         return ''.join(s)
