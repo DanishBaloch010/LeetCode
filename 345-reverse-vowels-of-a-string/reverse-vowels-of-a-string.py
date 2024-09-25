@@ -49,7 +49,7 @@ class Solution:
         while i < j:
             while i < j and s[i] not in vowels:
                 i  = i + 1
-            
+                
             while i < j and s[j] not in vowels:
                 j  = j - 1
 
