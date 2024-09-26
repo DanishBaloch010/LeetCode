@@ -7,3 +7,4 @@
 605-can-place-flowers|Easy|1726772400000
 151-reverse-words-in-a-string|Medium|1726772400000
 345-reverse-vowels-of-a-string|Easy|1726772400000
+704-binary-search|Easy|1727290800000
