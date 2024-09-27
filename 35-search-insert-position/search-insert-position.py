@@ -3,6 +3,8 @@ class Solution:
         
         i = 0 
         j = len(nums)-1
+        # here without = it is not working for target 0 when it is not found
+        # [1,3,5,6], t = 0
         while i<=j:
             mid =(i+j)//2 
             if nums[mid] == target:
