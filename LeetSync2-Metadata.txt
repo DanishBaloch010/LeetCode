@@ -10,3 +10,4 @@
 704-binary-search|Easy|1727290800000
 35-search-insert-position|Easy|1727377200000
 283-move-zeroes|Easy|1727377200000
+75-sort-colors|Medium|1727809200000
