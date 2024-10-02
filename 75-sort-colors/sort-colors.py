@@ -21,6 +21,11 @@ class Solution:
         # return self.three_pointers_dutch_flag(nums)
 
         # counting sort
+        # the other way can be to find max value and create a positional array of that size.
+        
+        # i am happy in the class.
+        # the class i am happy.
+
         count = [0, 0, 0]
 
         for num in nums:
