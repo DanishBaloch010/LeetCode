@@ -14,3 +14,4 @@
 509-fibonacci-number|Easy|1727895600000
 680-valid-palindrome-ii|Easy|1727982000000
 2095-delete-the-middle-node-of-a-linked-list|Medium|1729537200000
+876-middle-of-the-linked-list|Easy|1729623600000
