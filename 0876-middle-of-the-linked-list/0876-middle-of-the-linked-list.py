@@ -9,6 +9,7 @@ class Solution:
         slow= head
         fast= head
 
+        # when fast will reach at the end the slow will be at the middle
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
