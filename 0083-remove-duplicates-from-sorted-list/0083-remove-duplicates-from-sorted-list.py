@@ -9,9 +9,7 @@ class Solution:
         if not head or not head.next:
             return head
         
-
         current = head
-
         while current.next:
             if current.val == current.next.val:
                 # skip node
