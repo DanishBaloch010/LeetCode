@@ -10,9 +10,12 @@ class Solution:
                 k -= 1
             result.append(digit)
         
-        # Remove remaining digits if k > 0
-        result = result[:-k] if k > 0 else result
+        # # Remove remaining digits if k > 0
+        # result = result[:-k] if k > 0 else result
         
+        if k > 0:
+        result = result[:-k]
+
         # Convert the result back to a string and strip leading zeros
         return "".join(result).lstrip('0') or "0"
 
