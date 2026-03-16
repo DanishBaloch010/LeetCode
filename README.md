@@ -27,4 +27,12 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 | [0094-binary-tree-inorder-traversal](https://github.com/DanishBaloch010/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/DanishBaloch010/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/DanishBaloch010/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0072-edit-distance](https://github.com/DanishBaloch010/LeetCode/tree/main/0072-edit-distance/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0072-edit-distance](https://github.com/DanishBaloch010/LeetCode/tree/main/0072-edit-distance/) | Medium |
 <!---LeetCode Topics End-->
