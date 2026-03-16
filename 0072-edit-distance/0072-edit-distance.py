@@ -25,6 +25,7 @@ class Solution:
 
             # this conditional check should be below base cases to prevent out of index error, because the above conditions prevents the pointer going out of bound.
             if word1[i] == word2[j]:
+                # before returning the answer store it in the memo and then check it at the top of this function to see if the solution for particular i and j already exists.
                 memo[(i,j)] = compute(i+1,j+1)
                 return memo[(i,j)]
             
