@@ -16,11 +16,16 @@ class Solution:
 
         queue = deque([root])
 
+        total_num_of_nodes = 0
         while queue:
 
-            # traverse the entire level
+            # queue holds the current level of tree, to check the level boundry we count the length of the current state of queue.
+            print(f"level boundry : {len(queue)}")
+            # traverse the tree level wise.
             for i in range(len(queue)):
                 node = queue.popleft()
+                # counting each non-null node. (adding towards total number of codes.)
+                total_num_of_nodes = total_num_of_nodes +1 
 
                 print(node.val)
                 if node.left:
@@ -30,8 +35,12 @@ class Solution:
                 if node.right:
                     queue.append(node.right)
                     print(node.right.val)
+
             print("-" *70)
 
             depth = depth + 1
+        
+        print(f"total depth : {depth}")
+        print(f"total number of nodes : {total_num_of_nodes}")
 
         return depth        
