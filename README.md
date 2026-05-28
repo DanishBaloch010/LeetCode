@@ -52,6 +52,7 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/DanishBaloch010/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/DanishBaloch010/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -61,4 +62,8 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/DanishBaloch010/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/DanishBaloch010/LeetCode/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
