@@ -49,4 +49,16 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 | [0102-binary-tree-level-order-traversal](https://github.com/DanishBaloch010/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DanishBaloch010/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DanishBaloch010/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/DanishBaloch010/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/DanishBaloch010/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/DanishBaloch010/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
