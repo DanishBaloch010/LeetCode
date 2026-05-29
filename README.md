@@ -66,4 +66,9 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/DanishBaloch010/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/DanishBaloch010/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/DanishBaloch010/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
