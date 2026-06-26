@@ -4,14 +4,14 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DanishBaloch010/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/DanishBaloch010/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/DanishBaloch010/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DanishBaloch010/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/DanishBaloch010/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DanishBaloch010/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -19,16 +19,16 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 | [0144-binary-tree-preorder-traversal](https://github.com/DanishBaloch010/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/DanishBaloch010/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DanishBaloch010/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DanishBaloch010/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DanishBaloch010/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/DanishBaloch010/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/DanishBaloch010/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DanishBaloch010/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/DanishBaloch010/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DanishBaloch010/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -36,39 +36,41 @@ This repo contains my solved leetcode solutions. Repo is created on 16th Septemb
 | [0144-binary-tree-preorder-traversal](https://github.com/DanishBaloch010/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/DanishBaloch010/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0072-edit-distance](https://github.com/DanishBaloch010/LeetCode/tree/main/0072-edit-distance/) | Medium |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0072-edit-distance](https://github.com/DanishBaloch010/LeetCode/tree/main/0072-edit-distance/) | Medium |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/DanishBaloch010/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DanishBaloch010/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/DanishBaloch010/LeetCode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/DanishBaloch010/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0136-single-number](https://github.com/DanishBaloch010/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/DanishBaloch010/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0217-contains-duplicate](https://github.com/DanishBaloch010/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/DanishBaloch010/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/DanishBaloch010/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0136-single-number](https://github.com/DanishBaloch010/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/DanishBaloch010/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/DanishBaloch010/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
